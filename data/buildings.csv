@@ -1,0 +1,447 @@
+overclockable;name;powerUsage;powerGenerated;inputs;outputs;width;length;height
+1;Assembler;15;;2;1;10;15;11
+0;"Automated Gate";;;0;0;8;1;4
+0;"AWESOME Shop";;;0;0;4;6;5
+0;"AWESOME Sink";30;;1;0;16;13;24
+0;"Basic Wall 1m (Concrete)";;;0;0;8;1;1
+0;"Basic Wall 1m (FICSIT)";;;0;0;8;1;1
+0;"Basic Wall 1m (Steel)";;;0;0;8;1;1
+0;"Basic Wall 4m (Concrete)";;;0;0;8;1;4
+0;"Basic Wall 4m (FICSIT)";;;0;0;8;1;4
+0;"Basic Wall 4m (Steel)";;;0;0;8;1;4
+0;"Beam Connector";;;0;0;1.25;1.25;1.25
+0;"Beam Connector Double";;;0;0;1.25;2.25;1.25
+0;"Beam Support";;;0;0;2;2;0.5
+0;"Big Concrete Pillar";;;0;0;4;4;4
+0;"Big Frame Pillar";;;0;0;4;4;4
+0;"Big Metal Pillar";;;0;0;4;4;4
+0;"Big Pillar Support";;;0;0;8;8;4
+1;"Biomass Burner";;30;0;0;8;8;7
+1;Blender;75;;"* 2 Pipeline
+* 2 Conveyor";"* 1 Pipeline
+* 1 Conveyor";18;16;15
+0;"Block Signal";;;0;0;0;0;0
+0;"Blueprint Designer";;;0;0;40;40;34
+0;"Candy Cane Building";;;0;0;1;1;7
+0;"Catwalk Corner";;;0;0;4;4;2
+0;"Catwalk Crossing";;;0;0;4;4;1
+0;"Catwalk Ramp";;;0;0;4;4;3
+0;"Catwalk Stairs";;;0;0;4;4;5
+0;"Catwalk Straight";;;0;0;4;4;2
+0;"Catwalk T-Crossing";;;0;0;4;4;2
+0;"Ceiling Light";2;;0;0;12;12;1
+0;"Center Door Wall (Concrete)";;;0;0;8;1;4
+0;"Center Door Wall (FICSIT)";;;0;0;8;1;4
+0;"Center Door Wall (Steel)";;;0;0;8;1;4
+1;"Coal Generator";;75;"* 1 Pipeline&lt;/br&gt;
+* 1 Conveyor";0;10;26;36
+1;Constructor;4;;1;1;7.9;9.9;8
+0;"Conveyor Belt Mk.1";;;0;0;2;1–56;1
+0;"Conveyor Belt Mk.2";;;0;0;2;1–56;1
+0;"Conveyor Belt Mk.3";;;0;0;2;1–56;1
+0;"Conveyor Belt Mk.4";;;0;0;2;1–56;1
+0;"Conveyor Belt Mk.5";;;0;0;2;1–56;1
+0;"Conveyor Ceiling Mount";;;0;0;2;1;2n+1
+0;"Conveyor Lift Floor Hole";;;0;0;2;2;"2 / 3 / 5"
+0;"Conveyor Lift Mk.1";;;0;0;2;2;7–51
+0;"Conveyor Lift Mk.2";;;0;0;2;2;7–51
+0;"Conveyor Lift Mk.3";;;0;0;2;2;7–51
+0;"Conveyor Lift Mk.4";;;0;0;2;2;7–51
+0;"Conveyor Lift Mk.5";;;0;0;2;2;7–51
+0;"Conveyor Merger";;;3;1;4;4;2n+1
+0;"Conveyor Pole";;;1;1;2;1;(1/3/5/7)
+0;"Conveyor Splitter";;;1;3;4;4;2n+1
+0;"Conveyor Wall Mount";;;0;0;2;1;1
+0;"Conveyor Wall x1 (Concrete)";;;0;0;8;1;4
+0;"Conveyor Wall x1 (FICSIT)";;;0;0;8;1;4
+0;"Conveyor Wall x1 (Steel)";;;0;0;8;1;4
+0;"Conveyor Wall x2 (Concrete)";;;0;0;8;1;4
+0;"Conveyor Wall x2 (FICSIT)";;;0;0;8;1;4
+0;"Conveyor Wall x2 (Steel)";;;0;0;8;1;4
+0;"Conveyor Wall x3 (Concrete)";;;0;0;8;1;4
+0;"Conveyor Wall x3 (FICSIT)";;;0;0;8;1;4
+0;"Conveyor Wall x3 (Steel)";;;0;0;8;1;4
+0;"Craft Bench";;;0;0;6;3;3
+0;"Double Ramp 2m (Asphalt)";;;0;0;8;8;2
+0;"Double Ramp 2m (Coated)";;;0;0;8;8;2
+0;"Double Ramp 2m (Concrete)";;;0;0;8;8;2
+0;"Double Ramp 2m (FICSIT)";;;0;0;8;8;2
+0;"Double Ramp 2m (Grip Metal)";;;0;0;8;8;2
+0;"Double Ramp 4m (Asphalt)";;;0;0;8;8;4
+0;"Double Ramp 4m (Coated)";;;0;0;8;8;4
+0;"Double Ramp 4m (Concrete)";;;0;0;8;8;4
+0;"Double Ramp 4m (FICSIT)";;;0;0;8;8;4
+0;"Double Ramp 4m (Grip Metal)";;;0;0;8;8;4
+0;"Double Ramp 8m (Asphalt)";;;0;0;8;8;8
+0;"Double Ramp 8m (Coated)";;;0;0;8;8;8
+0;"Double Ramp 8m (Concrete)";;;0;0;8;8;8
+0;"Double Ramp 8m (FICSIT)";;;0;0;8;8;8
+0;"Double Ramp 8m (Grip Metal)";;;0;0;8;8;8
+0;"Double Wall Outlet Mk.1";;;0;0;1;1;1
+0;"Double Wall Outlet Mk.2";;;0;0;1;1;1
+0;"Double Wall Outlet Mk.3";;;0;0;1;1;1
+0;"Down Corner Ramp 1m (Asphalt)";;;0;0;8;8;1
+0;"Down Corner Ramp 1m (Coated)";;;0;0;8;8;1
+0;"Down Corner Ramp 1m (Concrete)";;;0;0;8;8;1
+0;"Down Corner Ramp 1m (FICSIT)";;;0;0;8;8;1
+0;"Down Corner Ramp 1m (Grip Metal)";;;0;0;8;8;1
+0;"Down Corner Ramp 2m (Asphalt)";;;0;0;8;8;2
+0;"Down Corner Ramp 2m (Coated)";;;0;0;8;8;2
+0;"Down Corner Ramp 2m (Concrete)";;;0;0;8;8;2
+0;"Down Corner Ramp 2m (FICSIT)";;;0;0;8;8;2
+0;"Down Corner Ramp 2m (Grip Metal)";;;0;0;8;8;2
+0;"Down Corner Ramp 4m (Asphalt)";;;0;0;8;8;4
+0;"Down Corner Ramp 4m (Coated)";;;0;0;8;8;4
+0;"Down Corner Ramp 4m (Concrete)";;;0;0;8;8;4
+0;"Down Corner Ramp 4m (FICSIT)";;;0;0;8;8;4
+0;"Down Corner Ramp 4m (Grip Metal)";;;0;0;8;8;4
+0;"Drone Port";100;;2;1;24;24;15
+0;"Empty Platform";;;0;0;34;16;1
+0;"Empty Platform With Catwalk";;;0;0;34;16;1
+0;"Equipment Workshop";;;0;0;10;7;5
+0;"FICSIT Roof 1m";;;0;0;8;8;1
+0;"FICSIT Roof 2m";;;0;0;8;8;2
+0;"FICSIT Roof 4m";;;0;0;8;8;4
+0;"FICSIT Roof Flat";;;0;0;8;8;0.51
+0;"FICSMAS Gift Tree";0;;0;1;8;8;18
+0;"FICSMAS Power Light";;;0;0;0;1–100;0
+0;"FICSMAS Snow Dispenser";5;;0;0;6;6;1
+0;"FICSMAS Wreath";;;0;0;0.2;1;1
+0;"Flood Light Tower";6;;0;0;8;8;34
+0;"Fluid Buffer";;;0-2;0-2;6;6;8
+0;"Fluid Freight Platform";50;;0;0;34;16;20
+0;"Foundation 1m (Asphalt)";;;0;0;8;8;1
+0;"Foundation 1m (Coated)";;;0;0;8;8;1
+0;"Foundation 1m (Concrete)";;;0;0;8;8;1
+0;"Foundation 1m (FICSIT)";;;0;0;8;8;1
+0;"Foundation 1m (Grip Metal)";;;0;0;8;8;1
+0;"Foundation 2m (Asphalt)";;;0;0;8;8;2
+0;"Foundation 2m (Coated)";;;0;0;8;8;2
+0;"Foundation 2m (Concrete)";;;0;0;8;8;2
+0;"Foundation 2m (FICSIT)";;;0;0;8;8;2
+0;"Foundation 2m (Grip Metal)";;;0;0;8;8;2
+0;"Foundation 4m (Asphalt)";;;0;0;8;8;4
+0;"Foundation 4m (Coated)";;;0;0;8;8;4
+0;"Foundation 4m (Concrete)";;;0;0;8;8;4
+0;"Foundation 4m (FICSIT)";;;0;0;8;8;4
+0;"Foundation 4m (Grip Metal)";;;0;0;8;8;4
+0;"Foundation 88m x 1m";;;0;0;8;8;1
+0;"Foundation 8m x 1m";;;0;0;8;8;1
+1;Foundry;16;;2;1;10;9;9
+0;"Frame Window (Concrete)";;;0;0;8;1;4
+0;"Frame Window (FICSIT)";;;0;0;8;1;4
+0;"Frame Window (Steel)";;;0;0;8;1;4
+0;"Freight Car";;;0;0;6;16;6
+0;"Freight Platform";50;;0;0;34;16;20
+1;"Fuel Generator";;150;"1 Pipeline";0;20;20;27
+0;"Full Frame Window";;;0;0;8;1;4
+0;"Gate Hole Wall (Concrete)";;;0;0;8;1;4
+0;"Gate Hole Wall (FICSIT)";;;0;0;8;1;4
+0;"Gate Hole Wall (Steel)";;;0;0;8;1;4
+0;"Geothermal Generator";;;0;0;19;20;34
+0;"Giant FICSMAS Tree";;;0;0;24;24;48
+0;"Glass Roof 1m";;;0;0;8;8;1
+0;"Glass Roof 2m";;;0;0;8;8;2
+0;"Glass Roof 4m";;;0;0;8;8;4
+0;"Glass Roof Flat";;;0;0;8;8;0.51
+0;"Half Foundation 1m (Asphalt)";;;0;0;4;8;1
+0;"Half Foundation 1m (Coated)";;;0;0;4;8;1
+0;"Half Foundation 1m (Concrete)";;;0;0;4;8;1
+0;"Half Foundation 1m (FICSIT)";;;0;0;4;8;1
+0;"Half Foundation 1m (Grip Metal)";;;0;0;4;8;1
+0;"Half Foundation 2m (Asphalt)";;;0;0;4;8;2
+0;"Half Foundation 2m (Coated)";;;0;0;4;8;2
+0;"Half Foundation 2m (Concrete)";;;0;0;4;8;2
+0;"Half Foundation 2m (FICSIT)";;;0;0;4;8;2
+0;"Half Foundation 2m (Grip Metal)";;;0;0;4;8;2
+0;"Half Foundation 4m (Asphalt)";;;0;0;4;8;4
+0;"Half Foundation 4m (Coated)";;;0;0;4;8;4
+0;"Half Foundation 4m (Concrete)";;;0;0;4;8;4
+0;"Half Foundation 4m (FICSIT)";;;0;0;4;8;4
+0;"Half Foundation 4m (Grip Metal)";;;0;0;4;8;4
+0;"Hazard Storage Box";;;0;0;2;1;1
+0;"Hex Frame Window";;;0;0;8;1;4
+0;Hypertube;;;0;0;2;1–100;2
+0;"Hypertube Entrance";10;;0;0;2;1;2
+0;"Hypertube Floor Hole";;;0;0;2;2;1-4
+0;"Hypertube Support";;;0;0;2;1;(1/3/5/7)+2
+0;"Hypertube Wall Hole";;;0;0;2;1;2
+0;"Hypertube Wall Support";;;0;0;2;1;2
+0;"Industrial Fluid Buffer";;;0-2;0-2;14;14;12
+0;"Industrial Railing";;;0;0;8;0.25;1
+0;"Industrial Storage Container";;;2;2;5;10;8
+0;"Inner Corner Extension 1m (Asphalt)";;;0;0;4;4;1
+0;"Inner Corner Extension 1m (Coated)";;;0;0;4;4;1
+0;"Inner Corner Extension 1m (Concrete)";;;0;0;4;4;1
+0;"Inner Corner Extension 1m (FICSIT)";;;0;0;4;4;1
+0;"Inner Corner Extension 1m (Grip Metal)";;;0;0;4;4;1
+0;"Inner Corner Extension 2m (Asphalt)";;;0;0;4;4;2
+0;"Inner Corner Extension 2m (Coated)";;;0;0;4;4;2
+0;"Inner Corner Extension 2m (Concrete)";;;0;0;4;4;2
+0;"Inner Corner Extension 2m (FICSIT)";;;0;0;4;4;2
+0;"Inner Corner Extension 2m (Grip Metal)";;;0;0;4;4;2
+0;"Inner Corner Extension 4m (Asphalt)";;;0;0;4;4;4
+0;"Inner Corner Extension 4m (Coated)";;;0;0;4;4;4
+0;"Inner Corner Extension 4m (Concrete)";;;0;0;4;4;4
+0;"Inner Corner Extension 4m (FICSIT)";;;0;0;4;4;4
+0;"Inner Corner Extension 4m (Grip Metal)";;;0;0;4;4;4
+0;"Inner Corner Quarter Pipe (Asphalt)";;;0;0;8;8;4
+0;"Inner Corner Quarter Pipe (Coated)";;;0;0;8;8;4
+0;"Inner Corner Quarter Pipe (Concrete)";;;0;0;8;8;4
+0;"Inner Corner Quarter Pipe (FICSIT)";;;0;0;8;8;4
+0;"Inner Corner Quarter Pipe (Grip Metal)";;;0;0;8;8;4
+0;"Inv. Down Corner 1m (Asphalt)";;;0;0;8;8;1
+0;"Inv. Down Corner 1m (Coated)";;;0;0;8;8;1
+0;"Inv. Down Corner 1m (Concrete)";;;0;0;8;8;1
+0;"Inv. Down Corner 1m (FICSIT)";;;0;0;8;8;1
+0;"Inv. Down Corner 1m (Grip Metal)";;;0;0;8;8;1
+0;"Inv. Down Corner 2m (Asphalt)";;;0;0;8;8;2
+0;"Inv. Down Corner 2m (Coated)";;;0;0;8;8;2
+0;"Inv. Down Corner 2m (Concrete)";;;0;0;8;8;2
+0;"Inv. Down Corner 2m (FICSIT)";;;0;0;8;8;2
+0;"Inv. Down Corner 2m (Grip Metal)";;;0;0;8;8;2
+0;"Inv. Down Corner 4m (Asphalt)";;;0;0;8;8;4
+0;"Inv. Down Corner 4m (Coated)";;;0;0;8;8;4
+0;"Inv. Down Corner 4m (Concrete)";;;0;0;8;8;4
+0;"Inv. Down Corner 4m (FICSIT)";;;0;0;8;8;4
+0;"Inv. Down Corner 4m (Grip Metal)";;;0;0;8;8;4
+0;"Inv. Ramp 1m (Asphalt)";;;0;0;8;8;1
+0;"Inv. Ramp 1m (Coated)";;;0;0;8;8;1
+0;"Inv. Ramp 1m (Concrete)";;;0;0;8;8;1
+0;"Inv. Ramp 1m (FICSIT)";;;0;0;8;8;1
+0;"Inv. Ramp 1m (Grip Metal)";;;0;0;8;8;1
+0;"Inv. Ramp 2m (Asphalt)";;;0;0;8;8;2
+0;"Inv. Ramp 2m (Coated)";;;0;0;8;8;2
+0;"Inv. Ramp 2m (Concrete)";;;0;0;8;8;2
+0;"Inv. Ramp 2m (FICSIT)";;;0;0;8;8;2
+0;"Inv. Ramp 2m (Grip Metal)";;;0;0;8;8;2
+0;"Inv. Ramp 4m (Asphalt)";;;0;0;8;8;4
+0;"Inv. Ramp 4m (Coated)";;;0;0;8;8;4
+0;"Inv. Ramp 4m (Concrete)";;;0;0;8;8;4
+0;"Inv. Ramp 4m (FICSIT)";;;0;0;8;8;4
+0;"Inv. Ramp 4m (Grip Metal)";;;0;0;8;8;4
+0;"Inv. Ramp Wall 1m (Concrete)";;;0;0;8;1;1
+0;"Inv. Ramp Wall 1m (FICSIT)";;;0;0;8;1;1
+0;"Inv. Ramp Wall 1m (Steel)";;;0;0;8;1;1
+0;"Inv. Ramp Wall 2m (Concrete)";;;0;0;8;1;2
+0;"Inv. Ramp Wall 2m (FICSIT)";;;0;0;8;1;2
+0;"Inv. Ramp Wall 2m (Steel)";;;0;0;8;1;2
+0;"Inv. Ramp Wall 4m (Concrete)";;;0;0;8;1;4
+0;"Inv. Ramp Wall 4m (FICSIT)";;;0;0;8;1;4
+0;"Inv. Ramp Wall 4m (Steel)";;;0;0;8;1;4
+0;"Inv. Ramp Wall 8m (Concrete)";;;0;0;8;1;8
+0;"Inv. Ramp Wall 8m (FICSIT)";;;0;0;8;1;8
+0;"Inv. Ramp Wall 8m (Steel)";;;0;0;8;1;8
+0;"Inv. Up Corner 1m (Asphalt)";;;0;0;8;8;1
+0;"Inv. Up Corner 1m (Coated)";;;0;0;8;8;1
+0;"Inv. Up Corner 1m (Concrete)";;;0;0;8;8;1
+0;"Inv. Up Corner 1m (FICSIT)";;;0;0;8;8;1
+0;"Inv. Up Corner 1m (Grip Metal)";;;0;0;8;8;1
+0;"Inv. Up Corner 2m (Asphalt)";;;0;0;8;8;2
+0;"Inv. Up Corner 2m (Coated)";;;0;0;8;8;2
+0;"Inv. Up Corner 2m (Concrete)";;;0;0;8;8;2
+0;"Inv. Up Corner 2m (FICSIT)";;;0;0;8;8;2
+0;"Inv. Up Corner 2m (Grip Metal)";;;0;0;8;8;2
+0;"Inv. Up Corner 4m (Asphalt)";;;0;0;8;8;4
+0;"Inv. Up Corner 4m (Coated)";;;0;0;8;8;4
+0;"Inv. Up Corner 4m (Concrete)";;;0;0;8;8;4
+0;"Inv. Up Corner 4m (FICSIT)";;;0;0;8;8;4
+0;"Inv. Up Corner 4m (Grip Metal)";;;0;0;8;8;4
+0;"Inverted Inner Corner Quarter Pipe (Asphalt)";;;0;0;8;8;4
+0;"Inverted Inner Corner Quarter Pipe (Coated)";;;0;0;8;8;4
+0;"Inverted Inner Corner Quarter Pipe (Concrete)";;;0;0;8;8;4
+0;"Inverted Inner Corner Quarter Pipe (FICSIT)";;;0;0;8;8;4
+0;"Inverted Inner Corner Quarter Pipe (Grip Metal)";;;0;0;8;8;4
+0;"Inverted Outer Corner Quarter Pipe (Asphalt)";;;0;0;8;8;4
+0;"Inverted Outer Corner Quarter Pipe (Coated)";;;0;0;8;8;4
+0;"Inverted Outer Corner Quarter Pipe (Concrete)";;;0;0;8;8;4
+0;"Inverted Outer Corner Quarter Pipe (FICSIT)";;;0;0;8;8;4
+0;"Inverted Outer Corner Quarter Pipe (Grip Metal)";;;0;0;8;8;4
+0;"Inverted Quarter Pipe (Asphalt)";;;0;0;8;8;4
+0;"Inverted Quarter Pipe (Coated)";;;0;0;8;8;4
+0;"Inverted Quarter Pipe (Concrete)";;;0;0;8;8;4
+0;"Inverted Quarter Pipe (FICSIT)";;;0;0;8;8;4
+0;"Inverted Quarter Pipe (Grip Metal)";;;0;0;8;8;4
+0;"Jump Pad";5;;0;0;6;6;6
+0;Ladder;;;0;0;1;0.5;3–21
+0;"Lights Control Panel";0;;0;0;1;2;3
+0;"Lookout Tower";;;0;0;9;9;24
+0;MAM;;;0;0;5;9;6
+1;Manufacturer;55;;4;1;18;20;12
+0;"Medical Storage Box";;;0;0;2;1;1
+0;"Metal Beam";;;0;0;0.8;1–40;1
+0;"Metal Roof 1m";;;0;0;8;8;1
+0;"Metal Roof 2m";;;0;0;8;8;2
+0;"Metal Roof 4m";;;0;0;8;8;4
+0;"Metal Roof Flat";;;0;0;8;8;0.51
+1;"Miner Mk.1";5;;0;1;6;14;18
+1;"Miner Mk.2";12;;0;1;6;14;18
+1;"Miner Mk.3";30;;0;1;6;14;18
+0;"Modern Railing";;;0;0;4;0.25;1
+1;"Nuclear Power Plant";;2500;"* 1 Pipeline&lt;br&gt;
+* 1 Conveyor";"* 1 Conveyor";38;43;49
+1;"Oil Extractor";40;;No;"1 Pipeline";12;20;20
+0;"Outer Corner Extension 1m (Asphalt)";;;0;0;4;4;1
+0;"Outer Corner Extension 1m (Coated)";;;0;0;4;4;1
+0;"Outer Corner Extension 1m (Concrete)";;;0;0;4;4;1
+0;"Outer Corner Extension 1m (FICSIT)";;;0;0;4;4;1
+0;"Outer Corner Extension 1m (Grip Metal)";;;0;0;4;4;1
+0;"Outer Corner Extension 2m (Asphalt)";;;0;0;4;4;2
+0;"Outer Corner Extension 2m (Coated)";;;0;0;4;4;2
+0;"Outer Corner Extension 2m (Concrete)";;;0;0;4;4;2
+0;"Outer Corner Extension 2m (FICSIT)";;;0;0;4;4;2
+0;"Outer Corner Extension 2m (Grip Metal)";;;0;0;4;4;2
+0;"Outer Corner Extension 4m (Asphalt)";;;0;0;4;4;4
+0;"Outer Corner Extension 4m (Coated)";;;0;0;4;4;4
+0;"Outer Corner Extension 4m (Concrete)";;;0;0;4;4;4
+0;"Outer Corner Extension 4m (FICSIT)";;;0;0;4;4;4
+0;"Outer Corner Extension 4m (Grip Metal)";;;0;0;4;4;4
+0;"Outer Corner Quarter Pipe (Asphalt)";;;0;0;8;8;4
+0;"Outer Corner Quarter Pipe (Coated)";;;0;0;8;8;4
+0;"Outer Corner Quarter Pipe (Concrete)";;;0;0;8;8;4
+0;"Outer Corner Quarter Pipe (FICSIT)";;;0;0;8;8;4
+0;"Outer Corner Quarter Pipe (Grip Metal)";;;0;0;8;8;4
+1;Packager;10;;"* 1 Pipeline
+* 1 Conveyor";"* 1 Pipeline
+* 1 Conveyor";8;8;12
+0;"Painted Beam";;;0;0;1;1–40;1
+0;"Panel Window (Concrete)";;;0;0;8;1;4
+0;"Panel Window (FICSIT)";;;0;0;8;1;4
+0;"Panel Window (Steel)";;;0;0;8;1;4
+1;"Particle Accelerator";250-1500;;"*1 Pipeline
+*2 Conveyor";"*1 Conveyor";24;38;32
+0;"Path Signal";;;0;0;0;0;0
+0;"Personal Storage Box";;;0;0;2;1;1
+0;"Pipeline Floor Hole";;;0;0;2;2;1-4
+0;"Pipeline Junction Cross";;;0;0;4;4;2
+0;"Pipeline Mk.1";;;0;0;2;1–50;2
+0;"Pipeline Mk.1 (No Indicator)";;;0;0;2;1–50;2
+0;"Pipeline Mk.2";;;0;0;2;1–50;2
+0;"Pipeline Mk.2 (No Indicator)";;;0;0;2;1–50;2
+0;"Pipeline Pump Mk.1";4;;0;0;2;4;2
+0;"Pipeline Pump Mk.2";8;;0;0;2;5;2
+0;"Pipeline Support";;;0;0;2;1;(1/3/5/7)+2
+0;"Pipeline Wall Hole";;;0;0;2;1;2
+0;"Pipeline Wall Support";;;0;0;2;1;2
+0;"Power Line";;;0;0;0;1-100;0
+0;"Power Pole Mk.1";;;0;0;0.8;0.8;7
+0;"Power Pole Mk.2";;;0;0;0.8;0.8;8
+0;"Power Pole Mk.3";;;0;0;0.8;0.8;9
+0;"Power Storage";100;;0;0;6;6;12
+0;"Power Switch";0;;0;0;2;1;3
+0;"Programmable Splitter";;;1;3;4;4;2n+1
+0;"Quarter Pipe (Asphalt)";;;0;0;8;8;4
+0;"Quarter Pipe (Coated)";;;0;0;8;8;4
+0;"Quarter Pipe (Concrete)";;;0;0;8;8;4
+0;"Quarter Pipe (FICSIT)";;;0;0;8;8;4
+0;"Quarter Pipe (Grip Metal)";;;0;0;8;8;4
+0;"Radar Tower";30;;0;0;10;10;118
+0;Railway;;;0;0;6;13–100;1
+0;"Ramp 1m (Asphalt)";;;0;0;8;8;1
+0;"Ramp 1m (Coated)";;;0;0;8;8;1
+0;"Ramp 1m (Concrete)";;;0;0;8;8;1
+0;"Ramp 1m (FICSIT)";;;0;0;8;8;1
+0;"Ramp 1m (Grip Metal)";;;0;0;8;8;1
+0;"Ramp 2m (Asphalt)";;;0;0;8;8;2
+0;"Ramp 2m (Coated)";;;0;0;8;8;2
+0;"Ramp 2m (Concrete)";;;0;0;8;8;2
+0;"Ramp 2m (FICSIT)";;;0;0;8;8;2
+0;"Ramp 2m (Grip Metal)";;;0;0;8;8;2
+0;"Ramp 4m (Asphalt)";;;0;0;8;8;4
+0;"Ramp 4m (Coated)";;;0;0;8;8;4
+0;"Ramp 4m (Concrete)";;;0;0;8;8;4
+0;"Ramp 4m (FICSIT)";;;0;0;8;8;4
+0;"Ramp 4m (Grip Metal)";;;0;0;8;8;4
+0;"Ramp Wall 1m (Concrete)";;;0;0;8;1;1
+0;"Ramp Wall 1m (FICSIT)";;;0;0;8;1;1
+0;"Ramp Wall 1m (Steel)";;;0;0;8;1;1
+0;"Ramp Wall 2m (Concrete)";;;0;0;8;1;2
+0;"Ramp Wall 2m (FICSIT)";;;0;0;8;1;2
+0;"Ramp Wall 2m (Steel)";;;0;0;8;1;2
+0;"Ramp Wall 4m (Concrete)";;;0;0;8;1;4
+0;"Ramp Wall 4m (FICSIT)";;;0;0;8;1;4
+0;"Ramp Wall 4m (Steel)";;;0;0;8;1;4
+0;"Ramp Wall 8m (Concrete)";;;0;0;8;1;8
+0;"Ramp Wall 8m (FICSIT)";;;0;0;8;1;8
+0;"Ramp Wall 8m (Steel)";;;0;0;8;1;8
+1;Refinery;30;;"* 1 Pipeline
+* 1 Conveyor";"* 1 Pipeline
+* 1 Conveyor";10;20;31
+0;"Reinforced Window (Concrete)";;;0;0;8;1;4
+0;"Reinforced Window (FICSIT)";;;0;0;8;1;4
+0;"Reinforced Window (Steel)";;;0;0;8;1;4
+0;"Resource Well Extractor";0;;0;"1 Pipeline";4;4;5
+1;"Resource Well Pressurizer";150;;0;0;20;20;23
+0;"Road Barrier";;;0;0;4;1;1
+0;"Side Door Wall (Concrete)";;;0;0;8;1;4
+0;"Side Door Wall (FICSIT)";;;0;0;8;1;4
+0;"Side Door Wall (Steel)";;;0;0;8;1;4
+0;Signs;;;0;0;0;0;0
+0;"Single Window (Concrete)";;;0;0;8;1;4
+0;"Single Window (FICSIT)";;;0;0;8;1;4
+0;"Single Window (Steel)";;;0;0;8;1;4
+0;"Small Concrete Pillar";;;0;0;2;2;4
+0;"Small Frame Pillar";;;0;0;2;2;4
+0;"Small Metal Pillar";;;0;0;2;2;4
+0;"Small Pillar Support";;;0;0;4;4;2
+0;"Smart Splitter";;;1;3;4;4;2n+1
+1;Smelter;4;;1;1;6;9;9
+0;Snowman;;;0;0;6;6;7
+0;"Space Elevator";;;6;0;54;54;118
+0;"Stackable Conveyor Pole";;;1;1;2;1;2n+1
+0;"Stackable Hypertube Support";;;0;0;2;1;2n+2
+0;"Stackable Pipeline Support";;;0;0;1;2;2n+2
+0;"Storage Container";;;1;1;5;10;4
+0;"Street Light";1;;0;0;1;1;10
+0;"Tar Roof 1m";;;0;0;8;8;1
+0;"Tar Roof 2m";;;0;0;8;8;2
+0;"Tar Roof 4m";;;0;0;8;8;4
+0;"Tar Roof Flat";;;0;0;8;8;0.51
+0;"The HUB";;;0;0;14;26;28
+0;"Tilted Concave Wall 4m (Concrete)";;;0;0;8;8;4
+0;"Tilted Concave Wall 4m (FICSIT)";;;0;0;8;8;4
+0;"Tilted Concave Wall 4m (Steel)";;;0;0;8;8;4
+0;"Tilted Concave Wall 8m (Concrete)";;;0;0;8;8;8
+0;"Tilted Concave Wall 8m (FICSIT)";;;0;0;8;8;8
+0;"Tilted Concave Wall 8m (Steel)";;;0;0;8;8;8
+0;"Tilted Corner Wall 4m (Concrete)";;;0;0;8;8;4
+0;"Tilted Corner Wall 4m (FICSIT)";;;0;0;8;8;4
+0;"Tilted Corner Wall 4m (Steel)";;;0;0;8;8;4
+0;"Tilted Corner Wall 8m (Concrete)";;;0;0;8;8;8
+0;"Tilted Corner Wall 8m (FICSIT)";;;0;0;8;8;8
+0;"Tilted Corner Wall 8m (Steel)";;;0;0;8;8;8
+0;"Tilted Wall 4m (Concrete)";;;0;0;8;8;4
+0;"Tilted Wall 4m (FICSIT)";;;0;0;8;8;4
+0;"Tilted Wall 4m (Steel)";;;0;0;8;8;4
+0;"Tilted Wall 8m (Concrete)";;;0;0;8;8;8
+0;"Tilted Wall 8m (FICSIT)";;;0;0;8;8;8
+0;"Tilted Wall 8m (Steel)";;;0;0;8;8;8
+0;"Train Station";50;;0;0;34;16;20
+0;"Truck Station";20;;3;2;16;22;12
+0;"U-Jelly Landing Pad";5;;0;0;10;11;5
+0;"Up Corner Ramp 1m (Asphalt)";;;0;0;8;8;1
+0;"Up Corner Ramp 1m (Coated)";;;0;0;8;8;1
+0;"Up Corner Ramp 1m (Concrete)";;;0;0;8;8;1
+0;"Up Corner Ramp 1m (FICSIT)";;;0;0;8;8;1
+0;"Up Corner Ramp 1m (Grip Metal)";;;0;0;8;8;1
+0;"Up Corner Ramp 2m (Asphalt)";;;0;0;8;8;2
+0;"Up Corner Ramp 2m (Coated)";;;0;0;8;8;2
+0;"Up Corner Ramp 2m (Concrete)";;;0;0;8;8;2
+0;"Up Corner Ramp 2m (FICSIT)";;;0;0;8;8;2
+0;"Up Corner Ramp 2m (Grip Metal)";;;0;0;8;8;2
+0;"Up Corner Ramp 4m (Asphalt)";;;0;0;8;8;4
+0;"Up Corner Ramp 4m (Coated)";;;0;0;8;8;4
+0;"Up Corner Ramp 4m (Concrete)";;;0;0;8;8;4
+0;"Up Corner Ramp 4m (FICSIT)";;;0;0;8;8;4
+0;"Up Corner Ramp 4m (Grip Metal)";;;0;0;8;8;4
+0;Valve;;;0;0;2;2;2
+0;"Walkway Crossing";;;0;0;4;4;1
+0;"Walkway Ramp";;;0;0;4;4;3
+0;"Walkway Straight";;;0;0;4;4;2
+0;"Walkway T-Crossing";;;0;0;4;4;2
+0;"Walkway Turn";;;0;0;4;4;2
+0;"Wall Mounted Flood Light";6;;0;0;1;8;5
+0;"Wall Outlet Mk.1";;;0;0;1;1;1
+0;"Wall Outlet Mk.2";;;0;0;1;1;1
+0;"Wall Outlet Mk.3";;;0;0;1;1;1
+1;"Water Extractor";20;;No;"1 Pipeline";20;19.5;26
