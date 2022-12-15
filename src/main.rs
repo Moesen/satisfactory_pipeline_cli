@@ -1,21 +1,20 @@
-use inquire::{
-    formatter::MultiOptionFormatter, list_option::ListOption, validator::Validation, MultiSelect,
-};
-use std::process;
-mod building;
+mod fe;
+mod fileload;
+mod pipeoptz;
+mod game_data;
 
-fn main() {
-    let buildings = match building::load_buildings() {
-        Ok(val) => val,
-        Err(err) => {
-            println!(
-                "Error loading buildings\n
-                msg: {}",
-                err
-            );
-            process::exit(-1);
-        }
-    };
-    let formatter: MultiOptionFormatter<&str> = &|a| format!("{} different buildings", a.len());
-    let ans = MultiSelect::new("Select the building: ", buildings).prompt();        
+use game_data::{Building, RecipeCSV};
+use fileload::csv_to_hash;
+use inquire::Select;
+use std::{collections::HashMap, env::current_dir};
+
+fn main() -> std::io::Result<()> {
+
+    let recipe_options = recipes.keys().clone().collect();
+    let chosen_recipe = Select::new("What would you like to make?", recipe_options)
+        .prompt()
+        .unwrap();
+
+
+    Ok(())
 }
